@@ -58,26 +58,39 @@ The project uses a supply chain dataset consisting of:
 
 ---
 
+
+
 ## How to Run the Project
 
 ### Clone the Repository:
+
 ```bash
-git clone https://github.com/yourusername/repo-name.git
-cd repo-name
+git clone https://github.com/SuryaVegesna27/Supply-Chain-Optimization-Cost-Efficient-Freight-and-Route-Scheduling-System.git
+cd Supply-Chain-Optimization-Cost-Efficient-Freight-and-Route-Scheduling-System
 ```
 
 ### Install Dependencies:
+Ensure you have Python and Jupyter Notebook installed. Install the required libraries by running:
+
 ```bash
 pip install -r requirements.txt
 ```
 
-### Run the Optimization Script:
-```bash
-python optimization_model.py
-```
+### Open and Run the Notebook:
+1. Launch Jupyter Notebook:
+   ```bash
+   jupyter notebook
+   ```
+2. Navigate to the cloned repository folder in Jupyter.
+3. Open the file `SupplyChain_Optimization.ipynb`.
+4. Run each cell sequentially to execute the optimization process.
 
 ### View Results:
-- The output will display the optimal routes and quantities allocated to minimize costs.
+- The results, including optimal routes, quantities allocated, and minimized costs, will be displayed directly in the notebook's output cells.
+
+---
+
+This ensures the instructions align with the usage of the `.ipynb` file for Jupyter Notebook. Let me know if you need further customization!
 
 ---
 
