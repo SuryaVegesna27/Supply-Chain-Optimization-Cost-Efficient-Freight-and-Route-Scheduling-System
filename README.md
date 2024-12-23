@@ -90,9 +90,6 @@ pip install -r requirements.txt
 
 ---
 
-This ensures the instructions align with the usage of the `.ipynb` file for Jupyter Notebook. Let me know if you need further customization!
-
----
 
 ## Tools and Libraries Used
 
